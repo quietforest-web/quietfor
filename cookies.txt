@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.itch.io	TRUE	/	FALSE	1999999999	itchio_token	IkxsdWRhRVZQTDFGSHAzZiBVUiBCVVRUIEJVUERGYnhoMmw3WFIybSI%3d%2eGvti0XfdppxHhXcffkeSmSCnEEU%3d
+.itch.io	TRUE	/	FALSE	1999999999	ref%3aregister%3areferrer	http%3a%2f%2fdino%2dcollective%2eitch%2eio%2fplume%2dand%2dthe%2dforgotter%2dletter
+
